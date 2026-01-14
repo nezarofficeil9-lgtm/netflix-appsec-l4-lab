@@ -22,8 +22,6 @@ We will add:
 - `src/` application code
 - `docs/` threat model + security review notes
 - `tests/` test cases
-- `tools/` small security tooling utilities
-- `scripts/` helper scripts for setup and scanning
 
 ## Notes
 This repository is designed to be easy to review: clear README, consistent structure,
